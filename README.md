@@ -1,1 +1,3 @@
-# c-matrix
+# pkg install cmatrix 
+
+# cmatrix
